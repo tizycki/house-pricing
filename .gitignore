@@ -1,1 +1,7 @@
 Zadanie Data Science.pdf
+bin/
+etc/
+lib/
+lib64
+pyvenv.cfg
+share/
